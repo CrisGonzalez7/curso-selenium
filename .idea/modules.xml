@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/selenium.iml" filepath="$PROJECT_DIR$/.idea/selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../curso-selenium/.idea/curso-selenium.iml" filepath="$PROJECT_DIR$/../curso-selenium/.idea/curso-selenium.iml" />
     </modules>
   </component>
 </project>
