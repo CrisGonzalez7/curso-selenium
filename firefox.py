@@ -6,5 +6,6 @@ driver=webdriver.Firefox(executable_path="/usr/local/share/geckodriver")
 driver.get("https://jardinesparaiso.cl")
 
 print("Bienvenido a Selenium")
+print(driver.title)
 
 driver.close()
